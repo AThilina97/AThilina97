@@ -11,7 +11,7 @@
   <a href="https://twitter.com/AThilina1997" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-  <a href="thilinarangaprasad@gmail.com"></a>
+  <a href="mailto:thilinarangaprasad.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/Thilina#2156" target="_blank">
